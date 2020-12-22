@@ -1,31 +1,3 @@
-// var buttonColours =["red","blue" ,"green" ,"yellow"];
-
-
-// // function nextSequence(){
-    
-    
-// //     //audio.play();
-    
-// // }
-
-// var randomNumber = Math.floor( (Math.random() * 4));
-//     var randomChosenColour = buttonColours[randomNumber];
-//     var gamePattern=[];
-//     gamePattern.push(randomChosenColour);
-//     var idNew = "#" + randomChosenColour;
-//     $(idNew).fadeOut(100).fadeIn(100).fadeOut(100).fadeIn(100);
-//     var audiofile = "sounds/"+randomChosenColour+".mp3";
-//     var audio = new Audio(audiofile);
-
-
-// var userClickedPattern =[];
-
-// $(".btn").click(function(userClickedPattern){
-//    var userChosenColor = $(this).attr("id");
-//    console.log(userChosenColor);
-//    userClickedPattern.push(userChosenColor);
-// })
-
 var level = 0; 
 var toggle = true;
 
